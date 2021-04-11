@@ -6,7 +6,7 @@
   <br>
  
   <h2> <span> untitled </span> </h2>
-  <p> How do borders recreate themselves in online communities? </p>
+  <p> How are borders recreated in online communities? </p>
   
   </body>
 
