@@ -2,6 +2,7 @@
   <head>
   </head>
   <body>
+  <link href="./style.css" type="text.css" rel="stylesheet">
   <h1> <span> <strong> BORDER AS METHOD- SPRING 2021 </strong> </span> </h1>
   <br>
  
