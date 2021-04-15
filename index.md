@@ -2,7 +2,7 @@
   <head>
   </head>
   <body>
-  <link href="./style.css" type="text.css" rel="stylesheet">
+  <link href="https://github.com/aaverymg/borderasmethod/blob/gh-pages/style.css" type="text.css" rel="stylesheet">
   <h1>BORDER AS METHOD- SPRING 2021</h1>
   <br>
  
