@@ -1,3 +1,8 @@
 p {
 font-family: monospace;
 }
+
+.title {
+font-family: 'Calisto MT';
+font-weight: bold;
+}
