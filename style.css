@@ -1,8 +1,20 @@
 p {
 font-family: monospace;
+text-align: justify;
 }
 
 .title {
 font-family: 'Calisto MT';
 font-weight: bold;
+}
+
+.subtitle {
+font-weight: bold;
+}
+
+.intro {
+border: 5px solid black;
+padding: 10px 20px;
+width: 50%;
+font-size: 15px;
 }
