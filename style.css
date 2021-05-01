@@ -15,7 +15,7 @@ font-weight: bold;
 .intro {
 border: 5px solid black;
 padding: 10px 20px;
-width: 50%;
+width: 70%;
 font-size: 15px;
 text-align: justify;
 }
@@ -34,5 +34,10 @@ padding: 10px 20px;
 .nav {
 font-family: 'Calisto MT';
 float: right;
-padding: 0px 500px 0px 0px;
+padding: 0px 200px 0px 0px;
+}
+
+#sources {
+border: 5px solid black;
+padding: 0px 20px 10px 10px;
 }
