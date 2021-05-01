@@ -1,6 +1,6 @@
 p {
 font-family: monospace;
-text-align: justify;
+padding: 0px 20px 0px 0px;
 }
 
 .title {
@@ -17,8 +17,22 @@ border: 5px solid black;
 padding: 10px 20px;
 width: 50%;
 font-size: 15px;
+text-align: justify;
 }
 
 .tab {
 font-family: 'Calisto MT';
+padding: 0px 10px 0px 10px;
+}
+
+.timeline {
+font-family: monospace;
+border: 5px solid black;
+padding: 10px 20px;
+}
+
+.nav {
+font-family: 'Calisto MT';
+float: right;
+padding: 0px 500px 0px 0px;
 }
